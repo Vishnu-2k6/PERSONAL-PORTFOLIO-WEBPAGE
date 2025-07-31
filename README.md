@@ -20,6 +20,8 @@ The "Projects" section highlights two of my real-world projects: an Emotional Ch
 This project helped reinforce my HTML/CSS fundamentals, including responsive layouts, flexbox, and media queries. It also taught me the importance of organizing content and keeping code maintainable. All development was done using Visual Studio Code, and version control was managed with Git and GitHub.
 
 Overall, this portfolio acts as a foundation for showcasing my skills and will grow as I build and add more projects over time.
+
+
 ##output
 
 
