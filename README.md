@@ -23,5 +23,6 @@ Overall, this portfolio acts as a foundation for showcasing my skills and will g
 
 
 ##output
+<img width="1898" height="1025" alt="Image" src="https://github.com/user-attachments/assets/8a582189-ac89-4815-932d-e331ee9dc814" />
 
 
